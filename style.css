@@ -24,6 +24,7 @@
 .class3{
     margin:3rem 46rem;
       font-size: 2rem;
+      color: red;
 }
 .class4{
     margin:5rem 38rem;
@@ -48,6 +49,7 @@
 .class9{
      margin: 3rem 0.5rem;
     font-size: 2rem;
+    color: red;
 }
 .class10{
     margin:5rem 3rem;
@@ -76,20 +78,20 @@
   .class13 {
     width: 2px;
     height: 200px;
-    background-color: red;  /* Second hand */
+    background-color: 	#E63946;  /* Second hand */
     z-index: 3;
   }
 .class14 {
     width: 4px;
     height: 180px;
-    background-color: black;  /* Minute hand */
+    background-color: 	#1D3557;  /* Minute hand */
     z-index: 2;
   }
   
   .class15 {
     width: 6px;
     height: 140px;
-    background-color: black;  /* Hour hand */
+    background-color: #457B9D;  /* Hour hand */
     z-index: 1;
   }
 /* .class16{
