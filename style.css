@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+#container{
+    width: 50rem;
+  height: 50rem;
+  margin:1rem 32rem;
+  border-radius:46.3em;
+  border:solid #6e3232 3rem;
+  position: fixed;
+  background: color;
+  background-color: #e1c1c1;
+}
+.class1{
+    margin:1rem 12rem;
+  font-size: 2rem;
+}
+.class2{
+    margin:5rem 37rem;
+  font-size: 2rem;
+}
+.class3{
+    margin:3rem 46rem;
+      font-size: 2rem;
+}
+.class4{
+    margin:5rem 38rem;
+  font-size: 2rem;
+}
+.class5{
+    margin: 1rem 18rem;
+  font-size: 2rem;
+}
+.class6{
+    margin:1rem 25rem;
+      font-size: 2rem;
+}
+.class7{
+    margin:1rem 10rem;
+  font-size: 2rem;
+}
+.class8{
+    margin:5rem 3rem;
+      font-size: 2rem;
+}
+.class9{
+     margin: 3rem 0.5rem;
+    font-size: 2rem;
+}
+.class10{
+    margin:5rem 3rem;
+  font-size: 2rem;
+}
+.class11{
+    margin: 0rem 12rem;
+    font-size: 2rem;
+}
+.class12{
+    margin: 0rem 24rem;
+      font-size: 2rem;
+}
+.a{
+    display: flex;
+}
+
+.class13, .class14, .class15 {
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+    transform-origin: bottom center;
+    transform: rotate(0deg);
+  }
+  
+  .class13 {
+    width: 2px;
+    height: 200px;
+    background-color: red;  /* Second hand */
+    z-index: 3;
+  }
+.class14 {
+    width: 4px;
+    height: 180px;
+    background-color: black;  /* Minute hand */
+    z-index: 2;
+  }
+  
+  .class15 {
+    width: 6px;
+    height: 140px;
+    background-color: black;  /* Hour hand */
+    z-index: 1;
+  }
+/* .class16{
+    background-color: red;
+    width: 2rem;
+    height: 2rem;
+    height: 2rem;
+    margin:-27rem 24rem
+    border-radius:3rem;
+    position: fixed;
+} */
